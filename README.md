@@ -1,15 +1,15 @@
-# สวัสดีครับ! 👋 ผม [ชื่อของคุณ]
+# สวัสดีครับ! 👋 ผม [NIGHTSTAR]
 
 **`Full-Stack Developer` | `Tech Enthusiast` | `[ฉายาหรือตำแหน่งของคุณ]`**
 
-ผมเป็นนักพัฒนาซอฟต์แวร์ที่หลงใหลในการเขียนโค้ดและสร้างสรรค์สิ่งใหม่ๆ ปัจจุบันกำลังโฟกัสเรื่อง [เทคโนโลยีที่คุณสนใจ]
+ผมเป็นนักพัฒนาซอฟต์แวร์ที่หลงใหลในการเขียนโค้ดและสร้างสรรค์สิ่งใหม่ๆ ปัจจุบันกำลังโฟกัสเรื่อง [Back-End]
 
 ### 👨‍💻 เกี่ยวกับฉัน
 - 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์: **[ชื่อโปรเจกต์]**
-- 🌱 ตอนนี้กำลังเรียนรู้: **[ภาษาหรือเฟรมเวิร์กที่กำลังเรียน]**
-- 👯 มองหาโอกาสร่วมงานในโปรเจกต์: **[ประเภทโปรเจกต์ที่เป็น Open Source]**
-- 💬 ถามฉันได้เลยเรื่อง: **[เรื่องที่คุณถนัด เช่น React, Python, UI/UX]**
-- 📫 ติดต่อฉันได้ที่: **[อีเมลของคุณ]**
+- 🌱 ตอนนี้กำลังเรียนรู้: **[Node.JS]**
+- 👯 มองหาโอกาสร่วมงานในโปรเจกต์: **[--]**
+- 💬 ถามฉันได้เลยเรื่อง: **[JAVASCRIPT]**
+- 📫 ติดต่อฉันได้ที่: **[--]**
 
 ---
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <!-- เปลี่ยน YOUR_GITHUB_USERNAME เป็นชื่อไอดี GitHub ของคุณ -->
-  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Nightstar2381&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)" alt="GitHub Stats" />
 </p>
 
 <p align="center">
