@@ -26,7 +26,6 @@
     <img src="[https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark](https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark)" alt="Backend and Database Skills" />
   </a>
 </p>
-
 <br>
 
 <!-- ส่วน สถิติ (ใช้ธีม tokyonight และซ่อนขอบเพื่อให้ดูเนียนตา) -->
