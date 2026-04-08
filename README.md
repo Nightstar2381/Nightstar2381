@@ -19,14 +19,11 @@
 
 <p align="center">
   <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <!-- แถวที่ 1: Back-End & ภาษาหลัก -->
-    <img src="[https://skillicons.dev/icons?i=nodejs,express,ts,js,py,go&theme=dark](https://skillicons.dev/icons?i=nodejs,express,ts,js,py,go&theme=dark)" alt="Backend Skills" />
+    <!-- แถวที่ 1: Front-End -->
+    <img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark)" alt="Frontend Skills" />
     <br><br>
-    <!-- แถวที่ 2: Database & DevOps -->
-    <img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws&theme=dark)" alt="Database and DevOps" />
-    <br><br>
-    <!-- แถวที่ 3: Front-End & Tools (สำหรับ Full-Stack) -->
-    <img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,linux&theme=dark](https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,linux&theme=dark)" alt="Frontend and Tools" />
+    <!-- แถวที่ 2: Back-End & Database -->
+    <img src="[https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark](https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark)" alt="Backend and Database Skills" />
   </a>
 </p>
 
