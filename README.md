@@ -20,7 +20,7 @@
 <p align="center">
   <a href="[https://skillicons.dev](https://skillicons.dev)">
     <!-- แถวที่ 1: Front-End -->
-    <img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark)" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark(https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark)" alt="Frontend Skills" />
     <br><br>
     <!-- แถวที่ 2: Back-End & Database -->
     <img src="[https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark](https://skillicons.dev/icons?i=nodejs,php,py,mysql&theme=dark)" alt="Backend and Database Skills" />
